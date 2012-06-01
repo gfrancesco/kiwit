@@ -1,0 +1,61 @@
+index:
+  more: more >>
+  slo: Give shape to your project on the web...
+  contacts: contacts
+  tech:
+    title: Technology
+    intro: Keeping up with the latest technologies is a fundamental requirement to achieve high quality standards and to propose innovative projects.
+  dev:
+    title: Development
+    intro: Each project is unique. For this reason it's important to provide many solutions and choose each time the best one to reach specific goals.
+  proj:
+    title: Project Management
+    intro: "The entire life cycle of the project is managed internally: from specifications drafting, development, to testing and production server setup."
+
+about:
+  title: About me
+  p1: My name is Francesco Gianni, I'm a Computer Science Engineer, Master Degree. I studied at the University of Bergamo and I graduated with honors in 2009. I live in northern Italy, near the city of Milan.
+  p2: Kiwit was founded in 2009 as a consulting and engineering company. Following market trends, the core business if focused on new technologies for web development.
+  p3: My experience cover from simple personal web site development for small businesses, to consulting on large systems for medium/big sized companies that typically have integration requirements between company internal systems and the web.
+  p4: I am also consulting in security, performance optimization, testing, and server management.
+
+contacts:
+  title: Contacts
+
+dev:
+  title: Development
+  p1: My experience and the exclusive use of the best tools available, allow me to offer a product that not only is able to fully satisfy customer needs, no matter how complex or special they are, but also meets the latest standards of development, for both business logic and user experience.
+  p2: As a quick example, I can create websites with full graphic layout provided by the client, with complex features and integrated with other systems. Hosting could lay on low cost shared servers or dedicated hardware on Amazon/Linode or even based on Amazon cloud services.
+
+proj:
+  title: Project Management
+  p1: A professional service, covering all aspects of a complex project, is essential for high efficiency, quick development, cohesion and coherence of the various modules.
+  p2: The customer will be followed over time through a specific plan for updating, maintaining or adjusting the Infrastructure to support any traffic or data volumes grow.
+  p3: Aspects such as integration with Google services, performance analysis, optimization, SEO for major search engines and online marketing are an integral part of every site or web-based project.
+
+tech:
+  title: Technologies
+  p1: Technologies adopted are the state of the art that international scene can offer. They are all Open Source, mature and efficient, with the added benefit of having no associated costs that could fall directly or indirectly on the customer.
+  p2: Many of the tools listed here are used by companies like Facebook, Google, Mozilla, Groupon, Twitter and Foursquare.
+  p3: These choices, combined with experience and continuous study of new technologies, allow us to obtain a high quality product, that meets latest standards ratified by certification agencies.
+
+  ruby: Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+  python: Python is a very fast and efficient scripting language. It adapts as well to the web as to system integration. Google use it widely for his cloud services.
+  php: Php is the most popular scripting language on the web. Widely supported by most hosting services, enables you to create completely dynamic sites with low operating costs.
+  java: Java is a real programming language. Born in the '90s as a stand-alone language, has been extended by creating new efficient, web oriented languages.
+  rails: Ruby on Rails is an open source web framework that's optimized for programmer happiness and sustainable productivity. It lets you write beautiful code by favoring convention over configuration.
+  sinatra: Sinatra is a micro-framework based on Ruby for agile development of simple web applications. It allows a fast and clean development, ideal for prototyping.
+  nginx: Nginx is a high performance edge web server with the lowest memory footprint and the key features to build modern and efficient web infrastructure.
+  symfony: Symfony is a php-based framework for web development. It combines the power and quality of a comprehensive framework with guaranteed compatibility and diffusion of php.
+  postgresql: PostgreSQL is the world's most advanced open source relational database. Excellent performance and functionalities made it a high level choice for advanced applications.
+  mysql: MySQL is the most popular database used on the web. A large community, complete documentation and comprehensive global support are its strengths.
+  sqlite: SQLite is a mini database, provides the typical functions of a DBMS, requiring 0 configuration. The database consists of a single file, versatility is outstanding.
+  mongodb: MongoDB is an open source NoSQL database for document oriented storage. The excellent performance at high workloads and a JSON style data structure makes it perfect for handling large amounts of data on the web.
+  google: Google provides many tools and webmaster guides, ranging from online marketing to content optimization for search. These services, once integrated, gives the site a high added value.
+  html5: HTML 5 is a markup language that allow building complex, native web applications. Its specifications are continuously updated, multimedia features offered are top notch.
+  jquery: jQuery is a JavaScript library that simplifies the management of widespread dynamic HTML page. Allows you to add animations and Ajax calls with minimum effort.
+  solr: Solr allows you to manage text search within a site in a complete and functional way. Provides high speed, scalability and supports advanced features such as rich documents management, is based on Apache Lucene.
+  heroku: Heroku is a cloud service based on PaaS paradigm (Platform as a Service). Manages hosting and deployment of web applications based on different languages​​, including Ruby, saving developers from maintenance, set-up and hardware scaling at increased loads.
+  amazon: Amazon web services allow you to purchase disk space or hosting services to power your applications and only pay for actual use made ​​of it. Maximum flexibility and low cost are the strengths.
+  linode: Linode allows to rent virtual servers at low cost. The quality of service and performance are excellent, as well as tools to manage your server, entirely web-based.
+  artera: Offers shared professional grade hosting. High quality of service, expert and reliable support distinguish Artera from most competitors.

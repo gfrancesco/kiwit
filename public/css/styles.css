@@ -1,0 +1,166 @@
+body {
+/*  padding-top: 60px; */
+  background: url("/img/bg.png") repeat scroll 0 0 transparent;
+}
+
+#flag {
+  margin: 5% 0;
+}
+
+.logo_font {
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.3em;
+  font-size: 7em;
+  line-height: 110px;
+  text-align: center;
+  text-shadow: 9px 5px 14px #AAA;
+}
+
+#kiw {
+  color: #008000;
+}
+
+#it {
+  color: #bcd35f;
+  margin-left: -50px;
+}
+
+#vis {
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  font-variant: small-caps;
+  text-shadow: 1px 1px #AAA;
+  letter-spacing: 0.2em;
+}
+
+.center {
+  margin: 0 auto;
+  display: block;
+}
+
+.go-button {
+  max-width: 60px;
+}
+
+.home-button {
+  max-width: 80px;
+}
+
+#portrait {
+  border-radius: 30px;
+  border: solid #aaa;
+  margin-bottom: 35px;
+}
+
+.text-p {
+  font-family: Kreon, serif;
+  font-size: 2em;
+  line-height: 1.2em;
+  text-align: justify;
+}
+
+.home-intro {
+  font-family: Kreon, serif;
+  font-size: 2em;
+  line-height: 1.2em;
+  min-height: 180px;
+}
+
+h2 {
+  font-family: Kreon, serif;
+  font-size: 2.5em;
+  text-shadow: 1px 1px #AAA;
+  line-height: 1em;
+  padding-bottom: 1em;
+  font-variant: small-caps;
+}
+
+.footer {
+  text-align: center;
+  color: #aaa;
+  font-style: italic;
+}
+
+.rel {
+  position: relative;
+}
+
+#about {
+  position: absolute;
+  top: 10%;
+  left: 2%;
+}
+
+#slo {
+  font-family: Tangerine, serif;
+  font-size: 5em;
+  font-variant: normal;
+  text-shadow: 5px 4px 4px #AAA;
+  padding: 0 0 0 100px;
+}
+
+.spacer {
+  min-height: 60px;
+}
+
+.contact {
+  margin-top: 14px;
+}
+
+.stripe {
+  background: none repeat scroll 0 0 #EEE;
+  padding: 10px 0;
+}
+
+.line {
+  min-height: 13px;
+  margin: 10px 0;
+  background: none repeat scroll 0 0 #888;
+}
+
+li a img {
+  background: url('../img/sprite2.png') no-repeat;
+}
+
+#amazon{ background-position: 0 0; width: 181px; height: 180px; } 
+#amazon:hover{ background-position: 0 -183px; width: 181px; height: 180px; } 
+#artera{ background-position: 0 -366px; width: 260px; height: 112px; } 
+#artera:hover{ background-position: 0 -481px; width: 260px; height: 112px; } 
+#google{ background-position: 0 -596px; width: 260px; height: 152px; } 
+#google:hover{ background-position: 0 -751px; width: 260px; height: 152px; } 
+#heroku{ background-position: 0 -906px; width: 260px; height: 81px; } 
+#heroku:hover{ background-position: 0 -990px; width: 260px; height: 81px; } 
+#html5{ background-position: 0 -1074px; width: 180px; height: 180px; } 
+#html5:hover{ background-position: 0 -1257px; width: 180px; height: 180px; } 
+#java{ background-position: 0 -1440px; width: 180px; height: 180px; } 
+#java:hover{ background-position: 0 -1623px; width: 180px; height: 180px; } 
+#jquery{ background-position: 0 -1806px; width: 260px; height: 64px; } 
+#jquery:hover{ background-position: 0 -1873px; width: 260px; height: 64px; } 
+#linode{ background-position: 0 -1940px; width: 160px; height: 180px; } 
+#linode:hover{ background-position: -263px 0; width: 160px; height: 180px; } 
+#mongodb{ background-position: -263px -183px; width: 180px; height: 180px; } 
+#mongodb:hover{ background-position: -263px -366px; width: 180px; height: 180px; } 
+#mysql{ background-position: -263px -549px; width: 260px; height: 135px; } 
+#mysql:hover{ background-position: -263px -687px; width: 260px; height: 135px; } 
+#nginx{ background-position: -263px -825px; width: 260px; height: 69px; } 
+#nginx:hover{ background-position: -263px -897px; width: 260px; height: 69px; } 
+#php{ background-position: -263px -969px; width: 260px; height: 137px; } 
+#php:hover{ background-position: -263px -1109px; width: 260px; height: 137px; } 
+#postgresql{ background-position: -263px -1249px; width: 175px; height: 180px; } 
+#postgresql:hover{ background-position: -263px -1432px; width: 175px; height: 180px; } 
+#python{ background-position: -263px -1615px; width: 180px; height: 180px; } 
+#python:hover{ background-position: -263px -1798px; width: 180px; height: 180px; } 
+#rails{ background-position: -263px -1981px; width: 141px; height: 180px; } 
+#rails:hover{ background-position: -526px 0; width: 141px; height: 180px; } 
+#ruby{ background-position: -526px -183px; width: 180px; height: 180px; } 
+#ruby:hover{ background-position: -526px -366px; width: 180px; height: 180px; } 
+#sinatra{ background-position: -526px -549px; width: 260px; height: 73px; } 
+#sinatra:hover{ background-position: -526px -625px; width: 260px; height: 73px; } 
+#solr{ background-position: -526px -701px; width: 260px; height: 131px; } 
+#solr:hover{ background-position: -526px -835px; width: 260px; height: 131px; } 
+#sqlite{ background-position: -526px -969px; width: 260px; height: 151px; } 
+#sqlite:hover{ background-position: -526px -1123px; width: 260px; height: 151px; } 
+#symfony{ background-position: -526px -1277px; width: 149px; height: 180px; } 
+#symfony:hover{ background-position: -526px -1460px; width: 149px; height: 180px; } 
+
+

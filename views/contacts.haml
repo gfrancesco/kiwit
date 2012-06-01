@@ -1,0 +1,46 @@
+.stripe
+  .container
+    .row.rel
+      .offset3.span6
+        %img.center{:src => "img/logo.png",
+                :alt => "kiwit_logo"}
+        %h1.logo_font
+          %span#kiw Kiw
+          %span#it IT
+
+        %h3#vis Information Technology & Web Engineering
+
+
+.container
+  .row.spacer
+    .span12
+
+  .row
+    .offset2.span8
+
+      %h2
+        = t.contacts.title
+
+      %p.text-p
+        Kiwit di Francesco Gianni
+        %br
+        Via S. Rocco 28
+        %br
+        20874 Busnago (MB)
+
+      %p.text-p
+        P.IVA 06629290963
+        %br
+        C.F. GNNFNC83D28M052S
+
+      %p.text-p
+        mail: 
+        %script{:src => "/js/mail.js"}
+        %br
+        tel: +39 328 1537504
+
+      %a.center.home-button.btn.btn-large.btn-success{:href => '/'} << home
+   
+  %hr
+
+  %div= haml :footer

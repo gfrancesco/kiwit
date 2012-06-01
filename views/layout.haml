@@ -1,0 +1,36 @@
+!!! 5
+%html{:xmlns => "http://www.w3.org/1999/xhtml"}
+  %head
+    %meta{:charset => "utf-8"}
+    %title kiwIT.net di Francesco Ing. Gianni
+    %meta{:name => "description", :content => "Information Technology & Web Engineering. Diamo forma ai tuoi progetti sul web."}
+    %meta{:name => "author", :content => ""}
+
+    %script{:src => "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
+    %script{:src => "js/analytics.js"}
+
+    / Le styles
+    %link{ :href => "http://fonts.googleapis.com/css?family=Kreon|Tangerine", :rel => "stylesheet" }
+    %link{ :href => "/bootstrap/css/bootstrap.css", :type => "text/css", :rel => "stylesheet" }
+	
+    / add body padding styles
+    %link{ :href => "/css/styles.css", :rel => "stylesheet" }
+    %link{ :href => "/bootstrap/css/bootstrap-responsive.min.css", :rel => "stylesheet" }	
+
+    / Le fav and touch icons
+    %link{ rel: "shortcut icon", href: "/img/favicon.ico"}
+
+  %body
+
+    .container
+      .row
+        .offset10.span2
+          %a{ :href => "//#{@subdomain_i18n}#{@domain}#{@route}" }
+            %img#flag{ :src => "img/#{@image_name}.png",
+                       :alt => "#{@image_name}" }
+
+    = yield
+
+  / Placed at the end of the document so the pages load faster
+  %script{:src => "/bootstrap/js/bootstrap.min.js"}
+  %script{:src => "/js/tooltip.js"}

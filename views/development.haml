@@ -1,0 +1,34 @@
+.stripe
+  .container
+    .row.rel
+      .offset3.span6
+        %img.center{:src => "img/logo.png",
+                :alt => "kiwit_logo"}
+        %h1.logo_font
+          %span#kiw Kiw
+          %span#it IT
+
+        %h3#vis Information Technology & Web Engineering
+
+
+.container
+  .row.spacer
+    .span12
+
+  .row
+    .offset2.span8
+
+      %h2
+        = t.dev.title
+
+      %p.text-p
+        = t.dev.p1
+
+      %p.text-p
+        = t.dev.p2
+
+      %a.center.home-button.btn.btn-large.btn-success{:href => '/'} << home
+   
+  %hr
+
+  %div= haml :footer

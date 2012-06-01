@@ -1,0 +1,61 @@
+.stripe
+  .container
+    .row.rel
+      %a{:href => "/about"}
+        %img#about{:src => "img/about.png",
+                 :alt => "portrait"}
+      .offset3.span6
+        %img.center{:src => "img/logo.png",
+                :alt => "kiwit_logo"}
+        %h1.logo_font
+          %span#kiw Kiw
+          %span#it IT
+
+        %h3#vis Information Technology & Web Engineering
+
+
+.container
+  .row.spacer
+    .span12
+
+  .row
+    .span10
+      %h2#slo
+        = t.index.slo
+
+    .span2.contact
+      %a.btn.btn-large.btn-success{:href => '/contacts'}
+        = t.index.contacts
+
+  .row.spacer
+    .span12
+
+  .row
+    .span4
+      %h2
+        = t.index.tech.title
+      %p.home-intro
+        = t.index.tech.intro
+      %p
+        %a.go-button.center.btn.btn-info{:href => '/tech'}
+          = t.index.more
+    .span4
+      %h2
+        = t.index.dev.title
+      %p.home-intro
+        = t.index.dev.intro
+      %p
+        %a.go-button.center.btn.btn-info{:href => '/development'}
+          = t.index.more
+    .span4
+      %h2
+        = t.index.proj.title
+      %p.home-intro
+        = t.index.proj.intro
+      %p
+        %a.go-button.center.btn.btn-info{:href => '/project'}
+          = t.index.more
+
+  %hr
+
+  %div= haml :footer

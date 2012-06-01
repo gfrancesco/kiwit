@@ -1,0 +1,61 @@
+index:
+  more: vai >>
+  slo: Diamo forma ai tuoi progetti sul web...
+  contacts: contatti
+  tech:
+    title: Tecnologia
+    intro: Stare al passo con le ultime tecnologie è un requisito fondamentale per raggiungere alti standard di qualità e per poter proporre progetti innovativi.
+  dev:
+    title: Sviluppo
+    intro: Ogni progetto è unico. Per questo motivo è importante conoscere e poter scegliere tra diverse soluzioni la più adatta e conveniete per le esigenze della committenza.
+  proj:
+    title: Gestione del progetto
+    intro: "L'intero ciclo di vita del progetto è curato internamente: dalla stesura delle specifiche, allo sviluppo, test e configurazione dei server di produzione."
+
+about:
+  title: Chi sono
+  p1: Mi chiamo Francesco Gianni, sono un Ingegnere Informatico, Laurea Specialistica. Ho studiato all'Università di Bergamo e mi sono laureato a pieni voti nel 2009. Sono iscritto all'Ordine degli Ingegneri di Monza e Brianza (Sezione A, settore dell'informazione, n° A2281), faccio parte della Commissione Ingegneria dell'Informazione e della Commissione Giovani.
+  p2: Kiwit nasce nel 2009 come impresa individuale orientata alla consulenza informatica, ingegneristica e allo sviluppo software sia per il web che non.
+  p3: La mia esperienza va dal semplice sviluppo di siti web personali o per le piccole imprese, alla consulenza su sistemi di grosse dimensioni per grandi/medie imprese che tipicamente presentano requisiti di integrazione della piattaforma gestionale con siti o servizi web di varia natura.
+  p4: Mi occupo di consulenza anche nel campo della sicurezza, ottimizzazione delle performance, testing e aggiornamento/installazione server.
+
+contacts:
+  title: Contatti
+
+dev:
+  title: Sviluppo
+  p1: La mia esperienza e l'uso esclusivo dei migliori strumenti disponibili, mi permettono di offrire un prodotto che non solo è in grado di soddisfare le esigenze del cliente, per quanto complesse o particolari esse siano, ma risponde anche ai più moderni canoni di sviluppo, sia per la la parte di logica che per l'esperienza d'uso degli utenti.
+  p2: A titolo di esempio posso realizzare siti web con layout grafico fornito integralmente dal cliente, con funzionalità e integrazioni complesse, in hosting su server condivisi a basso costo oppure su server dedicati Amazon/Linode o basate su servizi cloud Amazon.
+
+proj:
+  title: Gestione del progetto
+  p1: Un servizio professionale, che copra tutti gli aspetti di un progetto complesso, è essenziale per garantire un'alta efficienza, la riduzione dei tempi morti, la coesione e la coerenza dei vari moduli.
+  p2: Il cliente sarà seguito nel tempo attraverso un piano specifico di aggiornamento e manutenzione oppure adeguando l'infrastuttura in modo da supportare eventuali volumi di traffico o dati in crescita.
+  p3: Aspetti come l'integrazione con i servizi di Google, l'analisi delle performance, l'ottimizzazione SEO per i principali motori di ricerca e il marketing online sono parte integrante di ogni sito o progetto basato sul web.
+
+tech:
+  title: Tecnologie
+  p1: Le tecnologie utilizzate rappresentano lo stato dell'arte che può offrire il panorama internazionale. Sono tutte Open Source, mature ed efficienti, con l'ulteriore vantaggio di non avere nessun costo associato che possa ricadere direttamente o indirettamente sul cliente.
+  p2: Molti degli strumenti qui elencati sono utilizzati da colossi come Facebook, Google, Mozilla, Groupon, Foursquare e Twitter. 
+  p3: Queste scelte, unite alla mia esperienza e al continuo studio delle nuove tecnologie, permettono di ottenere un prodotto di altissima qualità, conforme ai più recenti standard imposti dagli enti di certificazione.
+
+  ruby: Ruby è un linguaggio dinamico, moderno e open source, studiato per essere semplice e produttivo. Ha una sintassi elegante, molto vicina al linguaggio naturale e facile da utilizzare.
+  python: Python è un linguaggio di scripting molto veloce ed efficiente. Si adatta sia all'ambito web che all'integrazione di sistema. Google ne è uno dei principali fruitori.
+  php: Php è il linguaggio di scripting più diffuso sul web. Largamente supportato dalla maggior parte dei servizi di hosting, permette di creare siti dinamici e completi con bassi costi di gestione.
+  java: Java è un linguaggio di programmazione vero e proprio. Nato negli anni '90 per applicazioni stand-alone, è stato esteso creando nuovi linguaggi molto performanti più orientati al web.
+  rails: Rails è un framework per lo sviluppo web basato su Ruby. Ne sposa la filosofia, improntata alla produttività e all'eleganza del codice. Accorcia i tempi di sviluppo preferendo la convenzione alla configurazione.
+  sinatra: Sinatra è un micro-framework basato su Ruby per lo sviluppo agile di semplici applicativi web. Permette uno sviluppo pulito e velocissimo, ideale per la prototipazione.
+  nginx: Nginx è un moderno web server ad alte prestazioni. Velocità, scalabilità, basso utilizzo delle risorse e alta affidabilità sono i suoi punti forti.
+  symfony: Symfony è un framework per lo sviluppo web basato su php. Unisce la potenza e la qualità di un framework completo con la garanzia di compatibilità e diffusione di php.
+  postgresql: PostgreSQL è il database relazionale open source più avanzato al mondo. Ottime performance e funzionalità di altissimo livello lo rendono una scelta obbligata per applicativi avanzati.
+  mysql: MySQL è il database utilizzato dalla maggior parte dei siti web. Una vasta community, documentazione completa e esaustiva e supporto globale sono i suoi punti di forza.
+  sqlite: SQLite è un database in miniatura, mette a disposizione le funzionalità tipiche di un DBMS, senza l'obbligo di alcuna configurazione. Il database è costituito da un singolo file, la versatilità è al top.
+  mongodb: MongoDB è un database NoSQL open source. Utile per memorizzare strutture dati orientate ai documenti. Le ottime performance ad elevati carichi di lavoro e la struttura dati in stile JSON lo rendono perfetto per gestire grandi moli di dati sul web.
+  google: Google mette a disposizione dei webmaster molti tool e guide, che spaziano dal marketing online all'ottimizzazione dei contenuti per le ricerche. Sono tutti servizi che, una volta integrati, danno al sito un alto valore aggiunto.
+  html5: HTML 5 è lo strumento che permette di trasformare un normale sito di vecchia concezione in un'applicazione web complessa nativa. Le sue specifiche sono in continuo aggiornamento, le potenzialità multimediali offerte sono di altissimo livello.
+  jquery: jQuery è una libreria JavaScript molto diffusa che semplifica la gestione dinamica della pagina HTML. Permette di aggiungere animazioni e chiamate Ajax con il minimo sforzo.
+  solr: Solr permette di gestire le ricerche testuali all'interno di un sito in modo completo e funzionale. Garantisce alta velocità e scalabilità. Supporta funzionalità avanzate come la gestione di documenti complessi, è basato su Apache Lucene.
+  heroku: Heroku è un servizio cloud basato sul paradigma PaaS (Platform as a Service). Gestisce l'hosting e il deployment di applicativi basati su diversi linguaggi, tra cui Ruby, risparmiando al programmatore il lavoro di manutenzione, set-up e adattamento dell'infrastruttura hardware a carichi crescenti.
+  amazon: I web service di Amazon permettono di acquistare spazio su disco o potenza computazionale per i propri applicativi pagando solo per l'utilizzo effettivo che se ne fa. Massima elasticità e bassi costi sono i punti di forza.
+  linode: Linode permette di affittare server virtuali a basso costo. La qualità del servizio e le performance sono ottime, così come gli strumenti di gestione dei server, interamente web-based.
+  artera: Offre hosting in condivisione e professionale. Alta qualità del servizio, competenza e assistenza completa la distinguono dalla maggior parte dei competitor.
