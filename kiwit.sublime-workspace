@@ -1,0 +1,194 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aler",
+				"alert-heading"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"l",
+				"lockable"
+			],
+			[
+				"tim",
+				"timeoutable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/fra/work/kiwit/sito/kiwit/views/layout.haml",
+		"/home/fra/work/maison/maisonbook/config/initializers/preload_sti_models.rb",
+		"/home/fra/work/maison/maisonbook/config/database.yml",
+		"/home/fra/work/maison/maisonbook/app/models/company.rb",
+		"/home/fra/work/maison/maisonbook/config/initializers/devise.rb",
+		"/home/fra/work/maison/maisonbook/config/environments/development.rb",
+		"/home/fra/work/maison/maisonbook/app/views/posts/index.html.erb",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/models/post.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/models/car.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/models/cars.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/views/cars/car_view.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/maisonbook.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/views/cars/index.html.erb",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/application.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/views/videos/index.html.erb",
+		"/home/fra/work/maison/maisonbook/config/routes.rb",
+		"/home/fra/work/maison/maisonbook/Gemfile",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/views/posts/index_view.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/routers/posts_router.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/views/posts/post_view.js.coffee",
+		"/home/fra/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/fra/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/fra/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/fra/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/routers/videos_router.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/controllers/posts_controller.rb",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/views/videos/index_view.js.coffee",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/templates/videos/index.jst.ejs",
+		"/home/fra/work/maison/maisonbook/app/controllers/contacts_controller.rb",
+		"/home/fra/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
+		"/home/fra/work/maison/maisonbook/app/models/house_section.rb",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/templates/videos/show.jst.ejs",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/templates/videos/video.jst.ejs",
+		"/home/fra/work/maison/maisonbook/app/assets/javascripts/backbone/templates/videos/new.jst.ejs",
+		"/home/fra/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/fra/.config/sublime-text-2/Packages/User/HTML (Rails).sublime-settings",
+		"/home/fra/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/fra/work/bema/giardinaggioinsieme/giardinaggio/app/models/association.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lock",
+			"nil",
+			"var",
+			"inde"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
