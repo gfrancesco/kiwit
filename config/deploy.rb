@@ -12,6 +12,11 @@ set :normalize_asset_timestamps, false
 
 server "178.79.160.46", :app, :web, :db, :primary => true
 
+set :RBENV_ROOT, "/usr/local/rbenv"
+set :default_environment, {
+  'PATH' => "#{RBENV_ROOT}/shims:#{RBENV_ROOT}/bin:$PATH"
+}
+
 namespace :deploy do
 
   desc "Create shared directories."
