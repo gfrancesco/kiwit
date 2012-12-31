@@ -12,9 +12,9 @@ set :normalize_asset_timestamps, false
 
 server "178.79.160.46", :app, :web, :db, :primary => true
 
-set :RBENV_ROOT, "/usr/local/rbenv"
+set :rbenv_root, "/usr/local/rbenv"
 set :default_environment, {
-  'PATH' => "#{RBENV_ROOT}/shims:#{RBENV_ROOT}/bin:$PATH"
+  'PATH' => "#{rbenv_root}/shims:#{rbenv_root}/bin:$PATH"
 }
 
 namespace :deploy do

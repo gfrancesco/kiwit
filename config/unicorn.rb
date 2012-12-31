@@ -1,5 +1,5 @@
-APP_PATH = "/home/kiwit/www/app/current/"
-SHARED_PATH = "/home/kiwit/www/app/shared/"
+APP_PATH = "/home/kiwit/www/app/kiwit/current/"
+SHARED_PATH = "/home/kiwit/www/app/kiwit/shared/"
 worker_processes 1
 user "kiwit", "web"
 working_directory APP_PATH
