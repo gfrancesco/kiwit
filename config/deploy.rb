@@ -1,12 +1,12 @@
 set :application, "kiwit"
 set :repository,  "https://github.com/gfrancesco/kiwit.git"
-
+set :use_sudo, false
 set :scm, :git # You can set :scm explicitly or Capistrano will make an intelligent guess based on known version control directory names
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `git`, `mercurial`, `perforce`, `subversion` or `none`
 
 set :user, 'deployer'
-set :deploy_to, "/home/#{application}/www/app"
-set :use_sudo, :false
+set :deploy_to, "/home/#{application}/www/app/#{application}"
+
 
 set :normalize_asset_timestamps, false
 
