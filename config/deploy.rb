@@ -18,11 +18,14 @@ set :default_environment, {
 }
 
 namespace :deploy do
+  desc "Symlink static dir."
+  task :symlink_static do
+    run "ln -nfs #{shared_path}/assets/img #{release_path}/public/img"
+  end
 
   desc "Create shared directories."
   task :create_shared_dir do
-    run "mkdir -p #{shared_path}/assets/img #{shared_path}/assets/bootstrap
-      #{shared_path}/sockets #{shared_path}/assets/js #{shared_path}/assets/css"
+    run "mkdir -p #{shared_path}/assets/img"
   end
 
 end
@@ -37,6 +40,8 @@ namespace :bundle do
 end
 
 after 'deploy:setup', 'deploy:create_shared_dir'
+
+after 'deploy:update', 'deploy:symlink_static'
 
 after "deploy:restart", "deploy:cleanup"
 
