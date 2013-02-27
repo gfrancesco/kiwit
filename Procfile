@@ -1,0 +1,1 @@
+web: bundle exec ruby kiwit.rb -p $PORT -e $RACK_ENV
