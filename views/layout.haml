@@ -27,7 +27,7 @@
       .row
         .offset10.span2
           %a{ :href => "//#{@subdomain_i18n}#{@domain}#{@route}" }
-            %img#flag{ :src => "img/#{@image_name}.png",
+            %img#flag{ :src => "https://s3-eu-west-1.amazonaws.com/kiwit.net/#{@image_name}.png",
                        :alt => "#{@image_name}" }
 
     = yield

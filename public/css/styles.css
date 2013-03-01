@@ -1,6 +1,6 @@
 body {
 /*  padding-top: 60px; */
-  background: url("/img/bg.png") repeat scroll 0 0 transparent;
+  background: url("https://s3-eu-west-1.amazonaws.com/kiwit.net/bg.png") repeat scroll 0 0 transparent;
 }
 
 #flag {
@@ -119,7 +119,7 @@ h2 {
 }
 
 li a img {
-  background: url('../img/sprite2.png') no-repeat;
+  background: url('https://s3-eu-west-1.amazonaws.com/kiwit.net/sprite.png') no-repeat;
 }
 
 #amazon{ background-position: 0 0; width: 181px; height: 180px; } 
