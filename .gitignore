@@ -2,3 +2,4 @@ public/img
 *.sublime-project
 *.sublime-workspace
 .rvmrc
+.ruby-gemset
