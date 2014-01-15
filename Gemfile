@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
-ruby "2.0.0"
+ruby "2.1.0"
 
 gem "sinatra", "~> 1.3"
 gem "haml"
-gem "sinatra-r18n", :git => 'https://github.com/ai/r18n.git'
+gem "sinatra-r18n"
 
 group :development, :test do
   gem 'capistrano-unicorn', github: 'sosedoff/capistrano-unicorn', require: false
